@@ -35,8 +35,55 @@ git clone
 2. 建议在个人或测试环境中使用
 3. 遵守相关法律法规和服务条款
 
+## API 接口说明
+
+### 1. 状态检查
+
+检查服务是否就绪。
+
+```bash
+curl http://localhost:4444/status
+```
+
+响应示例：
+```json
+{
+    "status": "ready"  // 或 "initializing"
+}
+```
+
+### 2. 发送消息
+
+向 SillyTavern 发送消息并获取回复。
+
+```bash
+curl -X POST http://localhost:4444 \
+  -H "Content-Type: application/json" \
+  -d '{"message": "Hi!"}'
+```
+
+响应示例：
+```json
+{
+    "response": "Hello! How can I help you today?"
+}
+```
+
+错误响应示例：
+```json
+{
+    "error": "聊天系统正在初始化，请稍后再试"  // 503 Service Unavailable
+}
+```
+```json
+{
+    "error": "Message is required"  // 400 Bad Request
+}
+```
+
 ## 使用示例
 
+### Python 示例
 ```python
 # 创建一个 SillyTavernAPI 实例
 api = SillyTavernAPI()
@@ -49,3 +96,37 @@ print(response)
 status = api.get_status()
 print(status)
 ```
+
+### curl 示例
+```bash
+# 检查状态
+curl http://localhost:4444/status
+
+# 发送消息
+curl -X POST http://localhost:4444 \
+  -H "Content-Type: application/json" \
+  -d '{"message": "Hi!"}'
+```
+
+### JavaScript 示例
+```javascript
+// 发送消息
+fetch('http://localhost:4444', {
+    method: 'POST',
+    headers: {
+        'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+        message: 'Hi!'
+    })
+})
+.then(response => response.json())
+.then(data => console.log(data));
+
+// 检查状态
+fetch('http://localhost:4444/status')
+.then(response => response.json())
+.then(data => console.log(data));
+```
+
+
