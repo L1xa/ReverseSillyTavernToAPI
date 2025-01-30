@@ -8,5 +8,5 @@ SERVER_HOST = '0.0.0.0'
 SERVER_PORT = 4444
 
 # 聊天配置
-MAX_WAIT_TIME = 60  # 最大等待响应时间（秒）
-PAGE_LOAD_WAIT = 2  # 页面加载等待时间（秒） 
+MAX_WAIT_TIME = 360  # 最大等待响应时间（秒）
+PAGE_LOAD_WAIT = 30  # 页面加载等待时间（秒） 
