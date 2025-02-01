@@ -26,7 +26,7 @@ ReverseSillyTavernToAPI是一个基于 Selenium 的 SillyTavern API 代理服务
 
 1. 克隆仓库：
 ```bash
-git clone 
+git clone https://github.com/the-lazy-me/ReverseSillyTavernToAPI.git
 ```
 
 ## 使用限制
