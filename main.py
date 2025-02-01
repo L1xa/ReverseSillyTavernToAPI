@@ -19,7 +19,7 @@ def console_chat(chat):
 
 def main():
     # 创建命令行参数解析器
-    parser = argparse.ArgumentParser(description='AI聊天程序')
+    parser = argparse.ArgumentParser(description='SillyTavernAPI对话')
     parser.add_argument('--console', action='store_true', 
                       help='是否启用控制台对话模式')
     args = parser.parse_args()
