@@ -1,6 +1,7 @@
 # 浏览器配置
-CHROME_PATH = r'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
-CHROME_DRIVER_PATH = r'C:\\Program Files\\Google\\Chrome\\Application\\driver\\chromedriver.exe'
+# 相对于项目根目录的路径
+CHROME_PATH = r'browser/chrome.exe'
+CHROME_DRIVER_PATH = r'browser/driver/chromedriver.exe'
 CHAT_URL = 'http://127.0.0.1:8000'
 
 # 服务器配置

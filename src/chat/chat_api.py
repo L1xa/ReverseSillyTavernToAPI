@@ -35,15 +35,33 @@ class ChatAPI:
         logs = self.driver.get_log('performance')
         for log in logs:
             message = json.loads(log['message'])['message']
-            if ('Network.responseReceived' in message['method'] and 
-                'response' in message['params'] and 
-                message['params']['response']['url'].endswith('/api/backends/text-completions/generate')):
-                request_id = message['params']['requestId']
-                try:
-                    response = self.driver.execute_cdp_cmd('Network.getResponseBody', {'requestId': request_id})
-                    return json.loads(response['body'])
-                except Exception:
-                    continue
+            # 检查是否是网络响应
+            if 'Network.responseReceived' not in message['method']:
+                continue
+                
+            # 获取响应URL
+            response_url = message['params'].get('response', {}).get('url', '')
+            
+            # 检查是否是我们需要的API响应
+            if not (response_url.endswith('/api/backends/text-completions/generate') or 
+                   response_url.endswith('/api/backends/chat-completions/generate')):
+                continue
+                
+            request_id = message['params']['requestId']
+            try:
+                response = self.driver.execute_cdp_cmd('Network.getResponseBody', {'requestId': request_id})
+                response_data = json.loads(response['body'])
+                
+                # 处理不同的响应格式
+                if 'response' in response_data:
+                    return response_data['response']
+                elif 'choices' in response_data and len(response_data['choices']) > 0:
+                    message_content = response_data['choices'][0].get('message', {}).get('content')
+                    if message_content:
+                        return message_content
+                        
+            except Exception:
+                continue
         return None
 
     def send_message(self, message):
@@ -60,7 +78,7 @@ class ChatAPI:
             while True:
                 response = self.get_chat_response()
                 if response:
-                    return response['response']
+                    return response
                     
                 if time.time() - start_time > MAX_WAIT_TIME:
                     return "等待响应超时"

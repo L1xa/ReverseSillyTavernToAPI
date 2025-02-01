@@ -29,6 +29,31 @@ ReverseSillyTavernToAPI是一个基于 Selenium 的 SillyTavern API 代理服务
 git clone https://github.com/the-lazy-me/ReverseSillyTavernToAPI.git
 ```
 
+2. 设置chrome浏览器
+   - 点击下载chrome：https://storage.googleapis.com/chrome-for-testing-public/132.0.6834.159/win64/chrome-win64.zip
+   - 点击下载chrome driver：https://storage.googleapis.com/chrome-for-testing-public/132.0.6834.159/win64/chromedriver-win64.zip
+   
+3. 配置`config.py`文件
+
+   - 关键是设置，也可以使用相对路径，默认如下
+
+     ```python
+     CHROME_PATH = r'browser/chrome.exe'
+     CHROME_DRIVER_PATH = r'browser/driver/chromedriver.exe'
+     ```
+
+4. 安装依赖，程序根目录
+
+   ```bash
+   pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+   ```
+
+5. 运行
+
+   ```bash
+   python main.py
+   ```
+
 ## 使用限制
 
 1. 请控制请求频率，避免对服务器造成压力
@@ -128,5 +153,4 @@ fetch('http://localhost:4444/status')
 .then(response => response.json())
 .then(data => console.log(data));
 ```
-
 
