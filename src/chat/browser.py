@@ -1,27 +1,34 @@
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.edge.service import Service as EdgeService  # 修改1：使用 Edge 的 Service
+from selenium.webdriver.edge.options import Options as EdgeOptions  # 修改2：使用 Edge 的 Options
 from ..config import CHROME_PATH, CHROME_DRIVER_PATH
 import os
 
 def create_browser():
-    options = webdriver.ChromeOptions()
-    options.binary_location = CHROME_PATH
-    options.set_capability('goog:loggingPrefs', {'performance': 'ALL'})
+    # 使用 EdgeOptions 替代 ChromeOptions
+    options = EdgeOptions()
     
-    # 添加抑制日志的选项
-    options.add_argument('--log-level=3')  # 只显示致命错误
-    options.add_argument('--silent')
-    options.add_argument('--disable-logging')
-    options.add_argument('--disable-dev-shm-usage')
-    options.add_argument('--no-sandbox')
-    options.add_experimental_option('excludeSwitches', ['enable-logging'])
+    # 设置 Edge 浏览器路径（如果自定义安装位置）
+    if hasattr(CHROME_PATH, 'path') and CHROME_PATH.path:  # 检查配置是否存在
+        options.binary_location = CHROME_PATH  # Edge 的可执行文件路径
     
-    # 重定向错误输出
-    if os.name == 'nt':  # Windows系统
-        os.environ['WDM_LOG_LEVEL'] = '0'
+    # Edge 的日志配置（与 Chrome 不同）
+    options.set_capability('ms:edgeOptions', {
+        'args': [
+            '--log-level=0',           # 只显示致命错误
+            '--enable-logging',        # 启用日志（但级别为0时不输出）
+            '--no-sandbox',
+            '--disable-dev-shm-usage'  # 避免 /dev/shm 不足的问题
+        ],
+        'excludeSwitches': ['enable-logging']  # 排除无关日志
+    })
     
-    service = Service(CHROME_DRIVER_PATH, log_output=os.devnull)
-    driver = webdriver.Chrome(service=service, options=options)
+    # 初始化 Edge 服务（注意使用 EdgeService）
+    service = EdgeService(
+        executable_path=CHROME_DRIVER_PATH,  # Edge 驱动路径
+        log_output=os.devnull              # 禁用驱动日志
+    )
     
-    return driver 
+    # 启动 Edge 浏览器
+    driver = webdriver.Edge(service=service, options=options)
+    return driver

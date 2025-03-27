@@ -1,0 +1,712 @@
+[22828:23672:0327/175642.158:WARNING:invalidation_listener_impl.cc(100)] ProfileInvalidationProvider-245350905893 Created for project_number: 245350905893
+[22828:23672:0327/175642.158:WARNING:fm_registration_token_uploader.cc(156)] Starting FmRegistrationTokenUploader for kUser scope, 245350905893 project
+[22828:23672:0327/175642.158:WARNING:invalidation_listener_impl.cc(146)] ProfileInvalidationProvider-245350905893 Starting
+[22828:23672:0327/175642.158:WARNING:invalidation_listener_impl.cc(100)] ProfileInvalidationProvider-585406161706 Created for project_number: 585406161706
+[22828:23672:0327/175642.159:WARNING:fm_registration_token_uploader.cc(156)] Starting FmRegistrationTokenUploader for kUser scope, 585406161706 project
+[22828:23672:0327/175642.159:WARNING:invalidation_listener_impl.cc(146)] ProfileInvalidationProvider-585406161706 Starting
+[12756:9012:0327/175642.434:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[12756:9012:0327/175642.439:ERROR:direct_composition_support.cc(1070)] QueryInterface to IDCompositionDevice4 failed: 不支持此接口 (0x80004002)
+[22828:23672:0327/175643.563:INFO:CONSOLE(528)] "Character context menu initialized [object Object]", source: http://127.0.0.1:8880/script.js (528)
+[22828:23672:0327/175643.563:INFO:CONSOLE(536)] "initializing Prompt Itemization Array on Startup", source: http://127.0.0.1:8880/script.js (536)
+[22828:23672:0327/175643.624:INFO:CONSOLE(58)] "User Agent [object Object]", source: http://127.0.0.1:8880/scripts/browser-fixes.js (58)
+[22828:23672:0327/175643.703:INFO:CONSOLE(125)] "Loading locale data from ./locales/zh-cn.json", source: http://127.0.0.1:8880/scripts/i18n.js (125)
+[22828:23672:0327/175643.736:INFO:CONSOLE(100)] "Registering preset manager for API: kobold", source: http://127.0.0.1:8880/scripts/preset-manager.js (100)
+[22828:23672:0327/175643.736:INFO:CONSOLE(100)] "Registering preset manager for API: novel", source: http://127.0.0.1:8880/scripts/preset-manager.js (100)
+[22828:23672:0327/175643.736:INFO:CONSOLE(100)] "Registering preset manager for API: openai", source: http://127.0.0.1:8880/scripts/preset-manager.js (100)
+[22828:23672:0327/175643.736:INFO:CONSOLE(100)] "Registering preset manager for API: textgenerationwebui", source: http://127.0.0.1:8880/scripts/preset-manager.js (100)
+[22828:23672:0327/175643.736:INFO:CONSOLE(100)] "Registering preset manager for API: context", source: http://127.0.0.1:8880/scripts/preset-manager.js (100)
+[22828:23672:0327/175643.736:INFO:CONSOLE(100)] "Registering preset manager for API: instruct", source: http://127.0.0.1:8880/scripts/preset-manager.js (100)
+[22828:23672:0327/175643.736:INFO:CONSOLE(100)] "Registering preset manager for API: sysprompt", source: http://127.0.0.1:8880/scripts/preset-manager.js (100)
+[4680:23288:0327/175643.772:WARNING:net_errors_win.cc(119)] Unknown error 64 mapped to net::ERR_FAILED
+[4680:23288:0327/175643.772:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -2
+[22828:23672:0327/175643.918:INFO:CONSOLE(135)] "Event emitted: settings_loaded_before", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175643.921:INFO:CONSOLE(343)] "Preset samplers order: 6,0,1,2,3,4,5", source: http://127.0.0.1:8880/scripts/kai-settings.js (343)
+[22828:23672:0327/175643.923:INFO:CONSOLE(620)] "Preset samplers order: 1,5,0,2,3,4", source: http://127.0.0.1:8880/scripts/nai-settings.js (620)
+[22828:23672:0327/175643.935:INFO:CONSOLE(576)] "Preset samplers order: 6,0,1,3,4,2,5", source: http://127.0.0.1:8880/scripts/textgen-settings.js (576)
+[22828:23672:0327/175643.936:INFO:CONSOLE(597)] "Preset samplers order:  repetition_penalty,presence_penalty,frequency_penalty,dry,temperature,dynamic_temperature,quadratic_sampling,top_k,top_p,typical_p,epsilon_cutoff,eta_cutoff,tfs,top_a,min_p,mirostat,xtc,encoder_repetition_penalty,no_repeat_ngram", source: http://127.0.0.1:8880/scripts/textgen-settings.js (597)
+[22828:23672:0327/175643.937:INFO:CONSOLE(587)] "Preset samplers order:  dry,top_k,tfs_z,typical_p,top_p,min_p,xtc,temperature", source: http://127.0.0.1:8880/scripts/textgen-settings.js (587)
+[22828:23672:0327/175643.937:INFO:CONSOLE(611)] "Preset samplers order:  dry,penalties,no_repeat_ngram,temperature,top_nsigma,top_p_top_k,top_a,min_p,tfs,eta_cutoff,epsilon_cutoff,typical_p,quadratic,xtc", source: http://127.0.0.1:8880/scripts/textgen-settings.js (611)
+[22828:23672:0327/175643.992:INFO:CONSOLE(135)] "Event emitted: chatcompletion_model_changed", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175644.005:INFO:CONSOLE(135)] "Event emitted: chatcompletion_source_changed", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175644.020:INFO:CONSOLE(1016)] "poweruser.chat_display 0", source: http://127.0.0.1:8880/scripts/power-user.js (1016)
+[22828:23672:0327/175644.020:INFO:CONSOLE(1021)] "applying default chat", source: http://127.0.0.1:8880/scripts/power-user.js (1021)
+[22828:23672:0327/175644.028:INFO:CONSOLE(3101)] "aborting MUI reset 0", source: http://127.0.0.1:8880/scripts/power-user.js (3101)
+[22828:23672:0327/175644.036:INFO:CONSOLE(3101)] "aborting MUI reset 0", source: http://127.0.0.1:8880/scripts/power-user.js (3101)
+[22828:23672:0327/175644.069:INFO:CONSOLE(1773)] "Setting context_story_string to {{#if system}}{{system}}
+{{/if}}{{#if wiBefore}}{{wiBefore}}
+{{/if}}{{#if description}}{{description}}
+{{/if}}{{#if personality}}{{char}}'s personality: {{personality}}
+{{/if}}{{#if scenario}}Scenario: {{scenario}}
+{{/if}}{{#if wiAfter}}{{wiAfter}}
+{{/if}}{{#if persona}}{{persona}}
+{{/if}}", source: http://127.0.0.1:8880/scripts/power-user.js (1773)
+[22828:23672:0327/175644.070:INFO:CONSOLE(1773)] "Setting context_example_separator to ***", source: http://127.0.0.1:8880/scripts/power-user.js (1773)
+[22828:23672:0327/175644.070:INFO:CONSOLE(1773)] "Setting context_chat_start to ***", source: http://127.0.0.1:8880/scripts/power-user.js (1773)
+[22828:23672:0327/175644.070:INFO:CONSOLE(1773)] "Setting context_use_stop_strings to true", source: http://127.0.0.1:8880/scripts/power-user.js (1773)
+[22828:23672:0327/175644.070:INFO:CONSOLE(1773)] "Setting context_allow_jailbreak to false", source: http://127.0.0.1:8880/scripts/power-user.js (1773)
+[22828:23672:0327/175644.070:INFO:CONSOLE(1773)] "Setting context_names_as_stop_strings to true", source: http://127.0.0.1:8880/scripts/power-user.js (1773)
+[22828:23672:0327/175644.073:INFO:CONSOLE(1667)] "skipping movingUI state load", source: http://127.0.0.1:8880/scripts/power-user.js (1667)
+[22828:23672:0327/175644.083:INFO:CONSOLE(135)] "Event emitted: settings_loaded_after", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175644.084:INFO:CONSOLE(7092)] "value? openai", source: http://127.0.0.1:8880/script.js (7092)
+[22828:23672:0327/175644.084:INFO:CONSOLE(7094)] "hiding settings?", source: http://127.0.0.1:8880/script.js (7094)
+[22828:23672:0327/175644.085:INFO:CONSOLE(221)] "returning full samplers array", source: http://127.0.0.1:8880/scripts/samplerSelect.js (221)
+[22828:23672:0327/175644.096:INFO:CONSOLE(135)] "Event emitted: worldinfo_settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175644.105:INFO:CONSOLE(135)] "Event emitted: extensions_first_load", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175644.155:INFO:CONSOLE(392)] "Activating extension translate", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[22828:23672:0327/175644.167:INFO:CONSOLE(392)] "Activating extension connection-manager", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[22828:23672:0327/175644.180:INFO:CONSOLE(392)] "Activating extension regex", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[22828:23672:0327/175644.202:INFO:CONSOLE(392)] "Activating extension attachments", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[22828:23672:0327/175644.232:INFO:CONSOLE(392)] "Activating extension caption", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[22828:23672:0327/175644.264:INFO:CONSOLE(392)] "Activating extension expressions", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[22828:23672:0327/175644.313:INFO:CONSOLE(1667)] "skipping movingUI state load", source: http://127.0.0.1:8880/scripts/power-user.js (1667)
+[22828:23672:0327/175644.315:INFO:CONSOLE(392)] "Activating extension gallery", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[22828:23672:0327/175644.344:INFO:CONSOLE(483)] "dragElement called for expression-holder", source: http://127.0.0.1:8880/scripts/RossAscends-mods.js (483)
+[22828:23672:0327/175644.348:INFO:CONSOLE(3040)] "Window resize: 929x812 -> 929x812", source: http://127.0.0.1:8880/scripts/power-user.js (3040)
+[22828:23672:0327/175644.349:INFO:CONSOLE(3041)] "Zoom: 1.00, X:929, Y:812, original: 929x812 ", source: http://127.0.0.1:8880/scripts/power-user.js (3041)
+[22828:23672:0327/175644.351:INFO:CONSOLE(392)] "Activating extension memory", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[22828:23672:0327/175644.359:INFO:CONSOLE(392)] "Activating extension stable-diffusion", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[22828:23672:0327/175644.407:INFO:CONSOLE(943)] "Summary has no content", source: http://127.0.0.1:8880/scripts/extensions/memory/index.js (943)
+[22828:23672:0327/175644.411:INFO:CONSOLE(943)] "Summary has no content", source: http://127.0.0.1:8880/scripts/extensions/memory/index.js (943)
+[22828:23672:0327/175644.419:INFO:CONSOLE(943)] "Summary has no content", source: http://127.0.0.1:8880/scripts/extensions/memory/index.js (943)
+[22828:23672:0327/175644.453:INFO:CONSOLE(943)] "Summary has no content", source: http://127.0.0.1:8880/scripts/extensions/memory/index.js (943)
+[22828:23672:0327/175644.484:INFO:CONSOLE(392)] "Activating extension tts", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[22828:23672:0327/175644.605:INFO:CONSOLE(392)] "Activating extension quick-reply", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[22828:23672:0327/175644.651:INFO:CONSOLE(116)] "Using default TTS Provider settings", source: http://127.0.0.1:8880/scripts/extensions/tts/system.js (116)
+[22828:23672:0327/175644.651:INFO:CONSOLE(154)] "SystemTTS: Settings loaded", source: http://127.0.0.1:8880/scripts/extensions/tts/system.js (154)
+[22828:23672:0327/175644.701:INFO:CONSOLE(392)] "Activating extension assets", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[22828:23672:0327/175644.721:INFO:CONSOLE(20)] "[QR2] sets:  [object Object]", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (20)
+[22828:23672:0327/175644.721:INFO:CONSOLE(20)] "[QR2] settings:  [object Object]", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (20)
+[22828:23672:0327/175644.722:INFO:CONSOLE(392)] "Activating extension token-counter", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[22828:23672:0327/175644.744:INFO:CONSOLE(392)] "Activating extension vectors", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[22828:23672:0327/175644.779:INFO:CONSOLE(135)] "Event emitted: extension_settings_loaded", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175644.779:INFO:CONSOLE(221)] "returning full samplers array", source: http://127.0.0.1:8880/scripts/samplerSelect.js (221)
+[22828:23672:0327/175644.779:INFO:CONSOLE(135)] "Event emitted: settings_loaded", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175644.877:INFO:CONSOLE(135)] "Event emitted: character_page_loaded", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175644.886:INFO:CONSOLE(170)] "Chat Completions: loading token cache", source: http://127.0.0.1:8880/scripts/tokenizers.js (170)
+[22828:23672:0327/175645.130:INFO:CONSOLE(135)] "Event emitted: settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175645.525:INFO:CONSOLE(135)] "Event emitted: app_ready", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175645.525:INFO:CONSOLE(19)] "[QR2] executing startup", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (19)
+[22828:23672:0327/175645.525:INFO:CONSOLE(19)] "[QR2] /executing startup", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (19)
+[22828:23672:0327/175645.526:INFO:CONSOLE(19)] "[QR2] executing queue (0 items)", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (19)
+[22828:23672:0327/175645.526:INFO:CONSOLE(19)] "[QR2] /executing queue", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (19)
+[22828:23672:0327/175645.526:INFO:CONSOLE(19)] "[QR2] READY", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (19)
+[22828:23672:0327/175646.582:INFO:CONSOLE(135)] "Event emitted: settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:21980:0327/175648.012:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+[22828:23672:0327/175649.541:INFO:CONSOLE(165)] "Event emitted: online_status_changed", source: http://127.0.0.1:8880/lib/eventemitter.js (165)
+[22828:23672:0327/175649.620:INFO:CONSOLE(165)] "Event emitted: online_status_changed", source: http://127.0.0.1:8880/lib/eventemitter.js (165)
+[22828:23672:0327/175650.585:INFO:CONSOLE(135)] "Event emitted: settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175650.772:WARNING:invalidation_listener_impl.cc(259)] ProfileInvalidationProvider-245350905893 Registration token: cOeoKr7i7Ko:APA91bHRlG5yu0mQ4VEqWLJIFCAqcjzk_0BITF2UpWFob9ws36n9isLskDEmxZQtyKfRxOJxNxmQqkjhEPq2qe49_3R0uFDrf6mojwmtoULEYTPutquX7a4
+[22828:23672:0327/175650.772:ERROR:fm_registration_token_uploader.cc(187)] Client is missing for kUser scope
+[22828:23672:0327/175651.006:WARNING:invalidation_listener_impl.cc(259)] ProfileInvalidationProvider-585406161706 Registration token: fySLqf9mkPI:APA91bHYKsFFt-DtKIh42ZH0zQlE85hGuL94Nb33i9G7aremPQj51CBa4tZz9Bo3wg_0bgHFdyoEUsLuhyTd46DobM-fY1NQcZKrVXmU3CYFx-uW0qWXW-E
+[22828:23672:0327/175651.006:ERROR:fm_registration_token_uploader.cc(187)] Client is missing for kUser scope
+[22828:23672:0327/175652.334:INFO:CONSOLE(135)] "Event emitted: settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175652.743:INFO:CONSOLE(1951)] "saw no avatars", source: http://127.0.0.1:8880/script.js (1951)
+[22828:23672:0327/175653.077:INFO:CONSOLE(135)] "Event emitted: chat_id_changed", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175653.080:INFO:CONSOLE(3793)] "[WI] Found 0 world lore entries. Sorted by strategy character_first,1", source: http://127.0.0.1:8880/scripts/world-info.js (3793)
+[22828:23672:0327/175653.096:INFO:CONSOLE(1217)] "getting sprites list", source: http://127.0.0.1:8880/scripts/extensions/expressions/index.js (1217)
+[22828:23672:0327/175653.097:INFO:CONSOLE(943)] "Summary has no content", source: http://127.0.0.1:8880/scripts/extensions/memory/index.js (943)
+[22828:23672:0327/175653.107:INFO:CONSOLE(20)] "[QR2] calling [object Object]", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (20)
+[22828:23672:0327/175653.107:INFO:CONSOLE(20)] "[QR2] CHAT_CHANGED 店长大人 - 2025-03-27@17h18m51s", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (20)
+[22828:23672:0327/175653.121:INFO:CONSOLE(332)] "
+    setFloatingPrompt entered
+    ------
+    lastMessageNumber = 19
+    metadata_keys.interval = 1
+    metadata_keys.position = 1
+    metadata_keys.depth = 4
+    metadata_keys.role = 0
+    ------
+    ", source: http://127.0.0.1:8880/scripts/authors-note.js (332)
+[22828:23672:0327/175653.257:INFO:CONSOLE(135)] "Event emitted: chatLoaded", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175654.307:INFO:CONSOLE(135)] "Event emitted: settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175655.411:INFO:CONSOLE(3730)] "Generate entered", source: http://127.0.0.1:8880/script.js (3730)
+[22828:23672:0327/175655.411:INFO:CONSOLE(135)] "Event emitted: generation_started", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175655.411:INFO:CONSOLE(135)] "Event emitted: GENERATION_AFTER_COMMANDS", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175655.412:INFO:CONSOLE(4003)] "Skipping extension interceptors for dry run", source: http://127.0.0.1:8880/script.js (4003)
+[22828:23672:0327/175655.412:INFO:CONSOLE(4038)] "Core/all messages: 38/38", source: http://127.0.0.1:8880/script.js (4038)
+[22828:23672:0327/175655.412:INFO:CONSOLE(332)] "
+    setFloatingPrompt entered
+    ------
+    lastMessageNumber = 19
+    metadata_keys.interval = 1
+    metadata_keys.position = 1
+    metadata_keys.depth = 4
+    metadata_keys.role = 0
+    ------
+    ", source: http://127.0.0.1:8880/scripts/authors-note.js (332)
+[22828:23672:0327/175655.413:INFO:CONSOLE(3872)] "[WI] --- START WI SCAN (on 38 messages) (DRY RUN) ---", source: http://127.0.0.1:8880/scripts/world-info.js (3872)
+[22828:23672:0327/175655.413:INFO:CONSOLE(3902)] "[WI] Context size: 3096; WI budget: 774 (max% = 25%, cap = 0)", source: http://127.0.0.1:8880/scripts/world-info.js (3902)
+[22828:23672:0327/175655.414:INFO:CONSOLE(3793)] "[WI] Found 0 world lore entries. Sorted by strategy character_first,1", source: http://127.0.0.1:8880/scripts/world-info.js (3793)
+[22828:23672:0327/175655.414:INFO:CONSOLE(4092)] "skipWIAN not active, adding WIAN", source: http://127.0.0.1:8880/script.js (4092)
+[22828:23672:0327/175655.416:INFO:CONSOLE(4344)] "calling runGenerate", source: http://127.0.0.1:8880/script.js (4344)
+[22828:23672:0327/175655.417:INFO:CONSOLE(4362)] "generating prompt", source: http://127.0.0.1:8880/script.js (4362)
+[22828:23672:0327/175655.417:INFO:CONSOLE(4519)] "---calling setPromptString 0", source: http://127.0.0.1:8880/script.js (4519)
+[22828:23672:0327/175655.417:INFO:CONSOLE(135)] "Event emitted: generate_after_combine_prompts", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175655.435:INFO:CONSOLE(2552)] "Message role not set, defaulting to 'system' for identifier 'personaDescription'", source: http://127.0.0.1:8880/scripts/openai.js (2552)
+[22828:23672:0327/175655.470:INFO:CONSOLE(135)] "Event emitted: chat_completion_prompt_ready", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175655.470:INFO:CONSOLE(135)] "Event emitted: generate_after_data", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175656.473:INFO:CONSOLE(135)] "Event emitted: settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175657.485:INFO:CONSOLE(135)] "Event emitted: settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:21980:0327/175710.708:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+[22828:23672:0327/175711.189:INFO:CONSOLE(3730)] "Generate entered", source: http://127.0.0.1:8880/script.js (3730)
+[22828:23672:0327/175711.189:INFO:CONSOLE(135)] "Event emitted: generation_started", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175711.189:INFO:CONSOLE(135)] "Event emitted: GENERATION_AFTER_COMMANDS", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175711.203:INFO:CONSOLE(135)] "Event emitted: message_sent", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175711.219:INFO:CONSOLE(135)] "Event emitted: user_message_rendered", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175711.219:INFO:CONSOLE(20)] "[QR2] calling [object Object]", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (20)
+[22828:23672:0327/175711.394:INFO:CONSOLE(180)] "Chat Completions: saving token cache", source: http://127.0.0.1:8880/scripts/tokenizers.js (180)
+[22828:23672:0327/175711.396:INFO:CONSOLE(3994)] "Running extension interceptors", source: http://127.0.0.1:8880/script.js (3994)
+[22828:23672:0327/175711.396:INFO:CONSOLE(4038)] "Core/all messages: 39/39", source: http://127.0.0.1:8880/script.js (4038)
+[22828:23672:0327/175711.396:INFO:CONSOLE(332)] "
+    setFloatingPrompt entered
+    ------
+    lastMessageNumber = 20
+    metadata_keys.interval = 1
+    metadata_keys.position = 1
+    metadata_keys.depth = 4
+    metadata_keys.role = 0
+    ------
+    ", source: http://127.0.0.1:8880/scripts/authors-note.js (332)
+[22828:23672:0327/175711.397:INFO:CONSOLE(3872)] "[WI] --- START WI SCAN (on 39 messages) ---", source: http://127.0.0.1:8880/scripts/world-info.js (3872)
+[22828:23672:0327/175711.397:INFO:CONSOLE(3902)] "[WI] Context size: 3096; WI budget: 774 (max% = 25%, cap = 0)", source: http://127.0.0.1:8880/scripts/world-info.js (3902)
+[22828:23672:0327/175711.397:INFO:CONSOLE(3793)] "[WI] Found 0 world lore entries. Sorted by strategy character_first,1", source: http://127.0.0.1:8880/scripts/world-info.js (3793)
+[22828:23672:0327/175711.397:INFO:CONSOLE(4092)] "skipWIAN not active, adding WIAN", source: http://127.0.0.1:8880/script.js (4092)
+[22828:23672:0327/175711.401:INFO:CONSOLE(4344)] "calling runGenerate", source: http://127.0.0.1:8880/script.js (4344)
+[22828:23672:0327/175711.401:INFO:CONSOLE(4362)] "generating prompt", source: http://127.0.0.1:8880/script.js (4362)
+[22828:23672:0327/175711.401:INFO:CONSOLE(4519)] "---calling setPromptString 0", source: http://127.0.0.1:8880/script.js (4519)
+[22828:23672:0327/175711.401:INFO:CONSOLE(135)] "Event emitted: generate_after_combine_prompts", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175711.402:INFO:CONSOLE(2552)] "Message role not set, defaulting to 'system' for identifier 'personaDescription'", source: http://127.0.0.1:8880/scripts/openai.js (2552)
+[22828:23672:0327/175711.416:INFO:CONSOLE(135)] "Event emitted: chat_completion_prompt_ready", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175711.417:INFO:CONSOLE(135)] "Event emitted: generate_after_data", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175711.417:INFO:CONSOLE(4737)] "rungenerate calling API", source: http://127.0.0.1:8880/script.js (4737)
+[22828:23672:0327/175711.418:INFO:CONSOLE(4785)] "pushed prompt bits to itemizedPrompts array. Length is now: 1", source: http://127.0.0.1:8880/script.js (4785)
+[22828:23672:0327/175711.419:INFO:CONSOLE(135)] "Event emitted: chat_completion_settings_ready", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175711.499:INFO:CONSOLE(467)] "User Input --  ", source: http://127.0.0.1:8880/scripts/RossAscends-mods.js (467)
+[22828:23672:0327/175712.447:INFO:CONSOLE(135)] "Event emitted: settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175729.872:INFO:CONSOLE(6157)] "entering chat update routine for non-swipe post", source: http://127.0.0.1:8880/script.js (6157)
+[22828:23672:0327/175729.873:INFO:CONSOLE(135)] "Event emitted: message_received", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175729.902:INFO:CONSOLE(135)] "Event emitted: character_message_rendered", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175729.902:INFO:CONSOLE(20)] "[QR2] calling [object Object]", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (20)
+[22828:23672:0327/175729.905:INFO:CONSOLE(4953)] "/api/chats/save called by /Generate", source: http://127.0.0.1:8880/script.js (4953)
+[22828:23672:0327/175730.096:INFO:CONSOLE(180)] "Chat Completions: saving token cache", source: http://127.0.0.1:8880/scripts/tokenizers.js (180)
+[22828:23672:0327/175730.096:INFO:CONSOLE(135)] "Event emitted: generation_ended", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175730.107:INFO:CONSOLE(5097)] "Auto-continue is disabled by user.", source: http://127.0.0.1:8880/script.js (5097)
+[22828:23672:0327/175730.976:INFO:CONSOLE(3730)] "Generate entered", source: http://127.0.0.1:8880/script.js (3730)
+[22828:23672:0327/175730.976:INFO:CONSOLE(135)] "Event emitted: generation_started", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175730.976:INFO:CONSOLE(135)] "Event emitted: GENERATION_AFTER_COMMANDS", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175730.977:INFO:CONSOLE(4003)] "Skipping extension interceptors for dry run", source: http://127.0.0.1:8880/script.js (4003)
+[22828:23672:0327/175730.978:INFO:CONSOLE(4038)] "Core/all messages: 40/40", source: http://127.0.0.1:8880/script.js (4038)
+[22828:23672:0327/175730.978:INFO:CONSOLE(332)] "
+    setFloatingPrompt entered
+    ------
+    lastMessageNumber = 20
+    metadata_keys.interval = 1
+    metadata_keys.position = 1
+    metadata_keys.depth = 4
+    metadata_keys.role = 0
+    ------
+    ", source: http://127.0.0.1:8880/scripts/authors-note.js (332)
+[22828:23672:0327/175730.978:INFO:CONSOLE(3872)] "[WI] --- START WI SCAN (on 40 messages) (DRY RUN) ---", source: http://127.0.0.1:8880/scripts/world-info.js (3872)
+[22828:23672:0327/175730.979:INFO:CONSOLE(3902)] "[WI] Context size: 3096; WI budget: 774 (max% = 25%, cap = 0)", source: http://127.0.0.1:8880/scripts/world-info.js (3902)
+[22828:23672:0327/175730.979:INFO:CONSOLE(3793)] "[WI] Found 0 world lore entries. Sorted by strategy character_first,1", source: http://127.0.0.1:8880/scripts/world-info.js (3793)
+[22828:23672:0327/175730.979:INFO:CONSOLE(4092)] "skipWIAN not active, adding WIAN", source: http://127.0.0.1:8880/script.js (4092)
+[22828:23672:0327/175730.984:INFO:CONSOLE(4344)] "calling runGenerate", source: http://127.0.0.1:8880/script.js (4344)
+[22828:23672:0327/175730.984:INFO:CONSOLE(4362)] "generating prompt", source: http://127.0.0.1:8880/script.js (4362)
+[22828:23672:0327/175730.984:INFO:CONSOLE(4519)] "---calling setPromptString 0", source: http://127.0.0.1:8880/script.js (4519)
+[22828:23672:0327/175730.984:INFO:CONSOLE(135)] "Event emitted: generate_after_combine_prompts", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175730.988:INFO:CONSOLE(2552)] "Message role not set, defaulting to 'system' for identifier 'personaDescription'", source: http://127.0.0.1:8880/scripts/openai.js (2552)
+[22828:23672:0327/175731.016:INFO:CONSOLE(135)] "Event emitted: chat_completion_prompt_ready", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175731.016:INFO:CONSOLE(135)] "Event emitted: generate_after_data", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175732.034:INFO:CONSOLE(135)] "Event emitted: settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:21980:0327/175748.061:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+[22828:21980:0327/175804.068:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+[21404:15904:0327/175842.494:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[22828:21980:0327/175848.329:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+[22828:23672:0327/175854.792:INFO:CONSOLE(3730)] "Generate entered", source: http://127.0.0.1:8880/script.js (3730)
+[22828:23672:0327/175854.792:INFO:CONSOLE(135)] "Event emitted: generation_started", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175854.792:INFO:CONSOLE(135)] "Event emitted: GENERATION_AFTER_COMMANDS", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175854.851:INFO:CONSOLE(135)] "Event emitted: message_sent", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175854.867:INFO:CONSOLE(135)] "Event emitted: user_message_rendered", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175854.867:INFO:CONSOLE(20)] "[QR2] calling [object Object]", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (20)
+[22828:23672:0327/175855.717:INFO:CONSOLE(467)] "User Input --  ", source: http://127.0.0.1:8880/scripts/RossAscends-mods.js (467)
+[22828:23672:0327/175855.787:INFO:CONSOLE(180)] "Chat Completions: saving token cache", source: http://127.0.0.1:8880/scripts/tokenizers.js (180)
+[22828:23672:0327/175855.787:INFO:CONSOLE(3994)] "Running extension interceptors", source: http://127.0.0.1:8880/script.js (3994)
+[22828:23672:0327/175855.788:INFO:CONSOLE(4038)] "Core/all messages: 41/41", source: http://127.0.0.1:8880/script.js (4038)
+[22828:23672:0327/175855.788:INFO:CONSOLE(332)] "
+    setFloatingPrompt entered
+    ------
+    lastMessageNumber = 21
+    metadata_keys.interval = 1
+    metadata_keys.position = 1
+    metadata_keys.depth = 4
+    metadata_keys.role = 0
+    ------
+    ", source: http://127.0.0.1:8880/scripts/authors-note.js (332)
+[22828:23672:0327/175855.788:INFO:CONSOLE(3872)] "[WI] --- START WI SCAN (on 41 messages) ---", source: http://127.0.0.1:8880/scripts/world-info.js (3872)
+[22828:23672:0327/175855.789:INFO:CONSOLE(3902)] "[WI] Context size: 3096; WI budget: 774 (max% = 25%, cap = 0)", source: http://127.0.0.1:8880/scripts/world-info.js (3902)
+[22828:23672:0327/175855.789:INFO:CONSOLE(3793)] "[WI] Found 0 world lore entries. Sorted by strategy character_first,1", source: http://127.0.0.1:8880/scripts/world-info.js (3793)
+[22828:23672:0327/175855.789:INFO:CONSOLE(4092)] "skipWIAN not active, adding WIAN", source: http://127.0.0.1:8880/script.js (4092)
+[22828:23672:0327/175855.792:INFO:CONSOLE(4344)] "calling runGenerate", source: http://127.0.0.1:8880/script.js (4344)
+[22828:23672:0327/175855.792:INFO:CONSOLE(4362)] "generating prompt", source: http://127.0.0.1:8880/script.js (4362)
+[22828:23672:0327/175855.792:INFO:CONSOLE(4519)] "---calling setPromptString 0", source: http://127.0.0.1:8880/script.js (4519)
+[22828:23672:0327/175855.792:INFO:CONSOLE(135)] "Event emitted: generate_after_combine_prompts", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175855.794:INFO:CONSOLE(2552)] "Message role not set, defaulting to 'system' for identifier 'personaDescription'", source: http://127.0.0.1:8880/scripts/openai.js (2552)
+[22828:23672:0327/175855.829:INFO:CONSOLE(135)] "Event emitted: chat_completion_prompt_ready", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175855.829:INFO:CONSOLE(135)] "Event emitted: generate_after_data", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175855.830:INFO:CONSOLE(4737)] "rungenerate calling API", source: http://127.0.0.1:8880/script.js (4737)
+[22828:23672:0327/175855.831:INFO:CONSOLE(4785)] "pushed prompt bits to itemizedPrompts array. Length is now: 2", source: http://127.0.0.1:8880/script.js (4785)
+[22828:23672:0327/175855.831:INFO:CONSOLE(135)] "Event emitted: chat_completion_settings_ready", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175857.756:INFO:CONSOLE(135)] "Event emitted: settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175912.613:INFO:CONSOLE(6157)] "entering chat update routine for non-swipe post", source: http://127.0.0.1:8880/script.js (6157)
+[22828:23672:0327/175912.613:INFO:CONSOLE(135)] "Event emitted: message_received", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175912.658:INFO:CONSOLE(135)] "Event emitted: character_message_rendered", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175912.658:INFO:CONSOLE(20)] "[QR2] calling [object Object]", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (20)
+[22828:23672:0327/175912.666:INFO:CONSOLE(4953)] "/api/chats/save called by /Generate", source: http://127.0.0.1:8880/script.js (4953)
+[22828:23672:0327/175912.859:INFO:CONSOLE(180)] "Chat Completions: saving token cache", source: http://127.0.0.1:8880/scripts/tokenizers.js (180)
+[22828:23672:0327/175912.859:INFO:CONSOLE(135)] "Event emitted: generation_ended", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175912.874:INFO:CONSOLE(5097)] "Auto-continue is disabled by user.", source: http://127.0.0.1:8880/script.js (5097)
+[22828:23672:0327/175913.715:INFO:CONSOLE(3730)] "Generate entered", source: http://127.0.0.1:8880/script.js (3730)
+[22828:23672:0327/175913.716:INFO:CONSOLE(135)] "Event emitted: generation_started", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175913.716:INFO:CONSOLE(135)] "Event emitted: GENERATION_AFTER_COMMANDS", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175913.717:INFO:CONSOLE(4003)] "Skipping extension interceptors for dry run", source: http://127.0.0.1:8880/script.js (4003)
+[22828:23672:0327/175913.718:INFO:CONSOLE(4038)] "Core/all messages: 42/42", source: http://127.0.0.1:8880/script.js (4038)
+[22828:23672:0327/175913.718:INFO:CONSOLE(332)] "
+    setFloatingPrompt entered
+    ------
+    lastMessageNumber = 21
+    metadata_keys.interval = 1
+    metadata_keys.position = 1
+    metadata_keys.depth = 4
+    metadata_keys.role = 0
+    ------
+    ", source: http://127.0.0.1:8880/scripts/authors-note.js (332)
+[22828:23672:0327/175913.720:INFO:CONSOLE(3872)] "[WI] --- START WI SCAN (on 42 messages) (DRY RUN) ---", source: http://127.0.0.1:8880/scripts/world-info.js (3872)
+[22828:23672:0327/175913.720:INFO:CONSOLE(3902)] "[WI] Context size: 3096; WI budget: 774 (max% = 25%, cap = 0)", source: http://127.0.0.1:8880/scripts/world-info.js (3902)
+[22828:23672:0327/175913.720:INFO:CONSOLE(3793)] "[WI] Found 0 world lore entries. Sorted by strategy character_first,1", source: http://127.0.0.1:8880/scripts/world-info.js (3793)
+[22828:23672:0327/175913.721:INFO:CONSOLE(4092)] "skipWIAN not active, adding WIAN", source: http://127.0.0.1:8880/script.js (4092)
+[22828:23672:0327/175913.727:INFO:CONSOLE(4344)] "calling runGenerate", source: http://127.0.0.1:8880/script.js (4344)
+[22828:23672:0327/175913.727:INFO:CONSOLE(4362)] "generating prompt", source: http://127.0.0.1:8880/script.js (4362)
+[22828:23672:0327/175913.727:INFO:CONSOLE(4519)] "---calling setPromptString 0", source: http://127.0.0.1:8880/script.js (4519)
+[22828:23672:0327/175913.728:INFO:CONSOLE(135)] "Event emitted: generate_after_combine_prompts", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175913.729:INFO:CONSOLE(2552)] "Message role not set, defaulting to 'system' for identifier 'personaDescription'", source: http://127.0.0.1:8880/scripts/openai.js (2552)
+[22828:23672:0327/175913.755:INFO:CONSOLE(135)] "Event emitted: chat_completion_prompt_ready", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175913.755:INFO:CONSOLE(135)] "Event emitted: generate_after_data", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175914.772:INFO:CONSOLE(135)] "Event emitted: settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[4680:23288:0327/175930.415:WARNING:net_errors_win.cc(119)] Unknown error 64 mapped to net::ERR_FAILED
+[4680:23288:0327/175930.415:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -2
+[22828:21980:0327/175930.416:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+[20820:22808:0327/175942.299:ERROR:gpu_blocklist.cc(71)] Unable to get gpu adapter
+[22828:23672:0327/175942.299:ERROR:service_client.cc(36)] Unexpected on_device_model service disconnect: The device's GPU is not supported.
+[22828:21980:0327/175948.584:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+[22828:23672:0327/175959.389:INFO:CONSOLE(3730)] "Generate entered", source: http://127.0.0.1:8880/script.js (3730)
+[22828:23672:0327/175959.389:INFO:CONSOLE(135)] "Event emitted: generation_started", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175959.389:INFO:CONSOLE(135)] "Event emitted: GENERATION_AFTER_COMMANDS", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175959.407:INFO:CONSOLE(135)] "Event emitted: message_sent", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175959.420:INFO:CONSOLE(135)] "Event emitted: user_message_rendered", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175959.420:INFO:CONSOLE(20)] "[QR2] calling [object Object]", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (20)
+[22828:23672:0327/175959.609:INFO:CONSOLE(180)] "Chat Completions: saving token cache", source: http://127.0.0.1:8880/scripts/tokenizers.js (180)
+[22828:23672:0327/175959.609:INFO:CONSOLE(3994)] "Running extension interceptors", source: http://127.0.0.1:8880/script.js (3994)
+[22828:23672:0327/175959.610:INFO:CONSOLE(4038)] "Core/all messages: 43/43", source: http://127.0.0.1:8880/script.js (4038)
+[22828:23672:0327/175959.610:INFO:CONSOLE(332)] "
+    setFloatingPrompt entered
+    ------
+    lastMessageNumber = 22
+    metadata_keys.interval = 1
+    metadata_keys.position = 1
+    metadata_keys.depth = 4
+    metadata_keys.role = 0
+    ------
+    ", source: http://127.0.0.1:8880/scripts/authors-note.js (332)
+[22828:23672:0327/175959.610:INFO:CONSOLE(3872)] "[WI] --- START WI SCAN (on 43 messages) ---", source: http://127.0.0.1:8880/scripts/world-info.js (3872)
+[22828:23672:0327/175959.610:INFO:CONSOLE(3902)] "[WI] Context size: 3096; WI budget: 774 (max% = 25%, cap = 0)", source: http://127.0.0.1:8880/scripts/world-info.js (3902)
+[22828:23672:0327/175959.610:INFO:CONSOLE(3793)] "[WI] Found 0 world lore entries. Sorted by strategy character_first,1", source: http://127.0.0.1:8880/scripts/world-info.js (3793)
+[22828:23672:0327/175959.610:INFO:CONSOLE(4092)] "skipWIAN not active, adding WIAN", source: http://127.0.0.1:8880/script.js (4092)
+[22828:23672:0327/175959.612:INFO:CONSOLE(4344)] "calling runGenerate", source: http://127.0.0.1:8880/script.js (4344)
+[22828:23672:0327/175959.612:INFO:CONSOLE(4362)] "generating prompt", source: http://127.0.0.1:8880/script.js (4362)
+[22828:23672:0327/175959.613:INFO:CONSOLE(4519)] "---calling setPromptString 0", source: http://127.0.0.1:8880/script.js (4519)
+[22828:23672:0327/175959.613:INFO:CONSOLE(135)] "Event emitted: generate_after_combine_prompts", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175959.614:INFO:CONSOLE(2552)] "Message role not set, defaulting to 'system' for identifier 'personaDescription'", source: http://127.0.0.1:8880/scripts/openai.js (2552)
+[22828:23672:0327/175959.619:INFO:CONSOLE(135)] "Event emitted: chat_completion_prompt_ready", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175959.620:INFO:CONSOLE(135)] "Event emitted: generate_after_data", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175959.621:INFO:CONSOLE(4737)] "rungenerate calling API", source: http://127.0.0.1:8880/script.js (4737)
+[22828:23672:0327/175959.621:INFO:CONSOLE(4785)] "pushed prompt bits to itemizedPrompts array. Length is now: 3", source: http://127.0.0.1:8880/script.js (4785)
+[22828:23672:0327/175959.621:INFO:CONSOLE(135)] "Event emitted: chat_completion_settings_ready", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/175959.702:INFO:CONSOLE(467)] "User Input --  ", source: http://127.0.0.1:8880/scripts/RossAscends-mods.js (467)
+[22828:23672:0327/180000.655:INFO:CONSOLE(135)] "Event emitted: settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180014.901:INFO:CONSOLE(6157)] "entering chat update routine for non-swipe post", source: http://127.0.0.1:8880/script.js (6157)
+[22828:23672:0327/180014.901:INFO:CONSOLE(135)] "Event emitted: message_received", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180014.951:INFO:CONSOLE(135)] "Event emitted: character_message_rendered", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180014.951:INFO:CONSOLE(20)] "[QR2] calling [object Object]", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (20)
+[22828:23672:0327/180014.954:INFO:CONSOLE(4953)] "/api/chats/save called by /Generate", source: http://127.0.0.1:8880/script.js (4953)
+[22828:23672:0327/180015.135:INFO:CONSOLE(180)] "Chat Completions: saving token cache", source: http://127.0.0.1:8880/scripts/tokenizers.js (180)
+[22828:23672:0327/180015.135:INFO:CONSOLE(135)] "Event emitted: generation_ended", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180015.152:INFO:CONSOLE(5097)] "Auto-continue is disabled by user.", source: http://127.0.0.1:8880/script.js (5097)
+[22828:23672:0327/180016.003:INFO:CONSOLE(3730)] "Generate entered", source: http://127.0.0.1:8880/script.js (3730)
+[22828:23672:0327/180016.003:INFO:CONSOLE(135)] "Event emitted: generation_started", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180016.003:INFO:CONSOLE(135)] "Event emitted: GENERATION_AFTER_COMMANDS", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180016.003:INFO:CONSOLE(4003)] "Skipping extension interceptors for dry run", source: http://127.0.0.1:8880/script.js (4003)
+[22828:23672:0327/180016.004:INFO:CONSOLE(4038)] "Core/all messages: 44/44", source: http://127.0.0.1:8880/script.js (4038)
+[22828:23672:0327/180016.004:INFO:CONSOLE(332)] "
+    setFloatingPrompt entered
+    ------
+    lastMessageNumber = 22
+    metadata_keys.interval = 1
+    metadata_keys.position = 1
+    metadata_keys.depth = 4
+    metadata_keys.role = 0
+    ------
+    ", source: http://127.0.0.1:8880/scripts/authors-note.js (332)
+[22828:23672:0327/180016.004:INFO:CONSOLE(3872)] "[WI] --- START WI SCAN (on 44 messages) (DRY RUN) ---", source: http://127.0.0.1:8880/scripts/world-info.js (3872)
+[22828:23672:0327/180016.004:INFO:CONSOLE(3902)] "[WI] Context size: 3096; WI budget: 774 (max% = 25%, cap = 0)", source: http://127.0.0.1:8880/scripts/world-info.js (3902)
+[22828:23672:0327/180016.004:INFO:CONSOLE(3793)] "[WI] Found 0 world lore entries. Sorted by strategy character_first,1", source: http://127.0.0.1:8880/scripts/world-info.js (3793)
+[22828:23672:0327/180016.004:INFO:CONSOLE(4092)] "skipWIAN not active, adding WIAN", source: http://127.0.0.1:8880/script.js (4092)
+[22828:23672:0327/180016.007:INFO:CONSOLE(4344)] "calling runGenerate", source: http://127.0.0.1:8880/script.js (4344)
+[22828:23672:0327/180016.007:INFO:CONSOLE(4362)] "generating prompt", source: http://127.0.0.1:8880/script.js (4362)
+[22828:23672:0327/180016.007:INFO:CONSOLE(4519)] "---calling setPromptString 0", source: http://127.0.0.1:8880/script.js (4519)
+[22828:23672:0327/180016.007:INFO:CONSOLE(135)] "Event emitted: generate_after_combine_prompts", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180016.008:INFO:CONSOLE(2552)] "Message role not set, defaulting to 'system' for identifier 'personaDescription'", source: http://127.0.0.1:8880/scripts/openai.js (2552)
+[22828:23672:0327/180016.025:INFO:CONSOLE(135)] "Event emitted: chat_completion_prompt_ready", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180016.025:INFO:CONSOLE(135)] "Event emitted: generate_after_data", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180017.161:INFO:CONSOLE(135)] "Event emitted: settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:21980:0327/180049.862:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+[22828:23672:0327/180120.172:INFO:CONSOLE(3730)] "Generate entered", source: http://127.0.0.1:8880/script.js (3730)
+[22828:23672:0327/180120.172:INFO:CONSOLE(135)] "Event emitted: generation_started", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180120.172:INFO:CONSOLE(135)] "Event emitted: GENERATION_AFTER_COMMANDS", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180120.183:INFO:CONSOLE(135)] "Event emitted: message_sent", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180120.200:INFO:CONSOLE(135)] "Event emitted: user_message_rendered", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180120.200:INFO:CONSOLE(20)] "[QR2] calling [object Object]", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (20)
+[22828:23672:0327/180120.380:INFO:CONSOLE(180)] "Chat Completions: saving token cache", source: http://127.0.0.1:8880/scripts/tokenizers.js (180)
+[22828:23672:0327/180120.381:INFO:CONSOLE(3994)] "Running extension interceptors", source: http://127.0.0.1:8880/script.js (3994)
+[22828:23672:0327/180120.382:INFO:CONSOLE(4038)] "Core/all messages: 45/45", source: http://127.0.0.1:8880/script.js (4038)
+[22828:23672:0327/180120.382:INFO:CONSOLE(332)] "
+    setFloatingPrompt entered
+    ------
+    lastMessageNumber = 23
+    metadata_keys.interval = 1
+    metadata_keys.position = 1
+    metadata_keys.depth = 4
+    metadata_keys.role = 0
+    ------
+    ", source: http://127.0.0.1:8880/scripts/authors-note.js (332)
+[22828:23672:0327/180120.382:INFO:CONSOLE(3872)] "[WI] --- START WI SCAN (on 45 messages) ---", source: http://127.0.0.1:8880/scripts/world-info.js (3872)
+[22828:23672:0327/180120.382:INFO:CONSOLE(3902)] "[WI] Context size: 3096; WI budget: 774 (max% = 25%, cap = 0)", source: http://127.0.0.1:8880/scripts/world-info.js (3902)
+[22828:23672:0327/180120.383:INFO:CONSOLE(3793)] "[WI] Found 0 world lore entries. Sorted by strategy character_first,1", source: http://127.0.0.1:8880/scripts/world-info.js (3793)
+[22828:23672:0327/180120.383:INFO:CONSOLE(4092)] "skipWIAN not active, adding WIAN", source: http://127.0.0.1:8880/script.js (4092)
+[22828:23672:0327/180120.384:INFO:CONSOLE(4344)] "calling runGenerate", source: http://127.0.0.1:8880/script.js (4344)
+[22828:23672:0327/180120.384:INFO:CONSOLE(4362)] "generating prompt", source: http://127.0.0.1:8880/script.js (4362)
+[22828:23672:0327/180120.384:INFO:CONSOLE(4519)] "---calling setPromptString 0", source: http://127.0.0.1:8880/script.js (4519)
+[22828:23672:0327/180120.385:INFO:CONSOLE(135)] "Event emitted: generate_after_combine_prompts", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180120.386:INFO:CONSOLE(2552)] "Message role not set, defaulting to 'system' for identifier 'personaDescription'", source: http://127.0.0.1:8880/scripts/openai.js (2552)
+[22828:23672:0327/180120.409:INFO:CONSOLE(135)] "Event emitted: chat_completion_prompt_ready", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180120.410:INFO:CONSOLE(135)] "Event emitted: generate_after_data", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180120.410:INFO:CONSOLE(4737)] "rungenerate calling API", source: http://127.0.0.1:8880/script.js (4737)
+[22828:23672:0327/180120.411:INFO:CONSOLE(4785)] "pushed prompt bits to itemizedPrompts array. Length is now: 4", source: http://127.0.0.1:8880/script.js (4785)
+[22828:23672:0327/180120.411:INFO:CONSOLE(135)] "Event emitted: chat_completion_settings_ready", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180120.482:INFO:CONSOLE(467)] "User Input --  ", source: http://127.0.0.1:8880/scripts/RossAscends-mods.js (467)
+[22828:23672:0327/180121.436:INFO:CONSOLE(135)] "Event emitted: settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180139.818:INFO:CONSOLE(6157)] "entering chat update routine for non-swipe post", source: http://127.0.0.1:8880/script.js (6157)
+[22828:23672:0327/180139.819:INFO:CONSOLE(135)] "Event emitted: message_received", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180139.851:INFO:CONSOLE(135)] "Event emitted: character_message_rendered", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180139.851:INFO:CONSOLE(20)] "[QR2] calling [object Object]", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (20)
+[22828:23672:0327/180139.853:INFO:CONSOLE(4953)] "/api/chats/save called by /Generate", source: http://127.0.0.1:8880/script.js (4953)
+[22828:23672:0327/180140.026:INFO:CONSOLE(180)] "Chat Completions: saving token cache", source: http://127.0.0.1:8880/scripts/tokenizers.js (180)
+[22828:23672:0327/180140.026:INFO:CONSOLE(135)] "Event emitted: generation_ended", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180140.041:INFO:CONSOLE(5097)] "Auto-continue is disabled by user.", source: http://127.0.0.1:8880/script.js (5097)
+[22828:23672:0327/180140.921:INFO:CONSOLE(3730)] "Generate entered", source: http://127.0.0.1:8880/script.js (3730)
+[22828:23672:0327/180140.921:INFO:CONSOLE(135)] "Event emitted: generation_started", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180140.921:INFO:CONSOLE(135)] "Event emitted: GENERATION_AFTER_COMMANDS", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180140.922:INFO:CONSOLE(4003)] "Skipping extension interceptors for dry run", source: http://127.0.0.1:8880/script.js (4003)
+[22828:23672:0327/180140.922:INFO:CONSOLE(4038)] "Core/all messages: 46/46", source: http://127.0.0.1:8880/script.js (4038)
+[22828:23672:0327/180140.922:INFO:CONSOLE(332)] "
+    setFloatingPrompt entered
+    ------
+    lastMessageNumber = 23
+    metadata_keys.interval = 1
+    metadata_keys.position = 1
+    metadata_keys.depth = 4
+    metadata_keys.role = 0
+    ------
+    ", source: http://127.0.0.1:8880/scripts/authors-note.js (332)
+[22828:23672:0327/180140.922:INFO:CONSOLE(3872)] "[WI] --- START WI SCAN (on 46 messages) (DRY RUN) ---", source: http://127.0.0.1:8880/scripts/world-info.js (3872)
+[22828:23672:0327/180140.922:INFO:CONSOLE(3902)] "[WI] Context size: 3096; WI budget: 774 (max% = 25%, cap = 0)", source: http://127.0.0.1:8880/scripts/world-info.js (3902)
+[22828:23672:0327/180140.922:INFO:CONSOLE(3793)] "[WI] Found 0 world lore entries. Sorted by strategy character_first,1", source: http://127.0.0.1:8880/scripts/world-info.js (3793)
+[22828:23672:0327/180140.923:INFO:CONSOLE(4092)] "skipWIAN not active, adding WIAN", source: http://127.0.0.1:8880/script.js (4092)
+[22828:23672:0327/180140.926:INFO:CONSOLE(4344)] "calling runGenerate", source: http://127.0.0.1:8880/script.js (4344)
+[22828:23672:0327/180140.926:INFO:CONSOLE(4362)] "generating prompt", source: http://127.0.0.1:8880/script.js (4362)
+[22828:23672:0327/180140.926:INFO:CONSOLE(4519)] "---calling setPromptString 0", source: http://127.0.0.1:8880/script.js (4519)
+[22828:23672:0327/180140.926:INFO:CONSOLE(135)] "Event emitted: generate_after_combine_prompts", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180140.927:INFO:CONSOLE(2552)] "Message role not set, defaulting to 'system' for identifier 'personaDescription'", source: http://127.0.0.1:8880/scripts/openai.js (2552)
+[22828:23672:0327/180140.949:INFO:CONSOLE(135)] "Event emitted: chat_completion_prompt_ready", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180140.949:INFO:CONSOLE(135)] "Event emitted: generate_after_data", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180141.972:INFO:CONSOLE(135)] "Event emitted: settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:21980:0327/180150.123:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+[22828:23672:0327/180210.951:INFO:CONSOLE(3730)] "Generate entered", source: http://127.0.0.1:8880/script.js (3730)
+[22828:23672:0327/180210.951:INFO:CONSOLE(135)] "Event emitted: generation_started", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180210.951:INFO:CONSOLE(135)] "Event emitted: GENERATION_AFTER_COMMANDS", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180210.967:INFO:CONSOLE(135)] "Event emitted: message_sent", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180210.984:INFO:CONSOLE(135)] "Event emitted: user_message_rendered", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180210.984:INFO:CONSOLE(20)] "[QR2] calling [object Object]", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (20)
+[22828:23672:0327/180211.173:INFO:CONSOLE(180)] "Chat Completions: saving token cache", source: http://127.0.0.1:8880/scripts/tokenizers.js (180)
+[22828:23672:0327/180211.173:INFO:CONSOLE(3994)] "Running extension interceptors", source: http://127.0.0.1:8880/script.js (3994)
+[22828:23672:0327/180211.174:INFO:CONSOLE(4038)] "Core/all messages: 47/47", source: http://127.0.0.1:8880/script.js (4038)
+[22828:23672:0327/180211.174:INFO:CONSOLE(332)] "
+    setFloatingPrompt entered
+    ------
+    lastMessageNumber = 24
+    metadata_keys.interval = 1
+    metadata_keys.position = 1
+    metadata_keys.depth = 4
+    metadata_keys.role = 0
+    ------
+    ", source: http://127.0.0.1:8880/scripts/authors-note.js (332)
+[22828:23672:0327/180211.174:INFO:CONSOLE(3872)] "[WI] --- START WI SCAN (on 47 messages) ---", source: http://127.0.0.1:8880/scripts/world-info.js (3872)
+[22828:23672:0327/180211.175:INFO:CONSOLE(3902)] "[WI] Context size: 3096; WI budget: 774 (max% = 25%, cap = 0)", source: http://127.0.0.1:8880/scripts/world-info.js (3902)
+[22828:23672:0327/180211.175:INFO:CONSOLE(3793)] "[WI] Found 0 world lore entries. Sorted by strategy character_first,1", source: http://127.0.0.1:8880/scripts/world-info.js (3793)
+[22828:23672:0327/180211.175:INFO:CONSOLE(4092)] "skipWIAN not active, adding WIAN", source: http://127.0.0.1:8880/script.js (4092)
+[22828:23672:0327/180211.179:INFO:CONSOLE(4344)] "calling runGenerate", source: http://127.0.0.1:8880/script.js (4344)
+[22828:23672:0327/180211.180:INFO:CONSOLE(4362)] "generating prompt", source: http://127.0.0.1:8880/script.js (4362)
+[22828:23672:0327/180211.180:INFO:CONSOLE(4519)] "---calling setPromptString 0", source: http://127.0.0.1:8880/script.js (4519)
+[22828:23672:0327/180211.180:INFO:CONSOLE(135)] "Event emitted: generate_after_combine_prompts", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180211.182:INFO:CONSOLE(2552)] "Message role not set, defaulting to 'system' for identifier 'personaDescription'", source: http://127.0.0.1:8880/scripts/openai.js (2552)
+[22828:23672:0327/180211.188:INFO:CONSOLE(135)] "Event emitted: chat_completion_prompt_ready", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180211.190:INFO:CONSOLE(135)] "Event emitted: generate_after_data", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180211.191:INFO:CONSOLE(4737)] "rungenerate calling API", source: http://127.0.0.1:8880/script.js (4737)
+[22828:23672:0327/180211.191:INFO:CONSOLE(4785)] "pushed prompt bits to itemizedPrompts array. Length is now: 5", source: http://127.0.0.1:8880/script.js (4785)
+[22828:23672:0327/180211.192:INFO:CONSOLE(135)] "Event emitted: chat_completion_settings_ready", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180211.262:INFO:CONSOLE(467)] "User Input --  ", source: http://127.0.0.1:8880/scripts/RossAscends-mods.js (467)
+[22828:23672:0327/180212.222:INFO:CONSOLE(135)] "Event emitted: settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180231.355:INFO:CONSOLE(6157)] "entering chat update routine for non-swipe post", source: http://127.0.0.1:8880/script.js (6157)
+[22828:23672:0327/180231.355:INFO:CONSOLE(135)] "Event emitted: message_received", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180231.418:INFO:CONSOLE(135)] "Event emitted: character_message_rendered", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180231.418:INFO:CONSOLE(20)] "[QR2] calling [object Object]", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (20)
+[22828:23672:0327/180231.421:INFO:CONSOLE(4953)] "/api/chats/save called by /Generate", source: http://127.0.0.1:8880/script.js (4953)
+[22828:23672:0327/180231.611:INFO:CONSOLE(180)] "Chat Completions: saving token cache", source: http://127.0.0.1:8880/scripts/tokenizers.js (180)
+[22828:23672:0327/180231.612:INFO:CONSOLE(135)] "Event emitted: generation_ended", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180231.624:INFO:CONSOLE(5097)] "Auto-continue is disabled by user.", source: http://127.0.0.1:8880/script.js (5097)
+[22828:23672:0327/180232.458:INFO:CONSOLE(3730)] "Generate entered", source: http://127.0.0.1:8880/script.js (3730)
+[22828:23672:0327/180232.458:INFO:CONSOLE(135)] "Event emitted: generation_started", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180232.458:INFO:CONSOLE(135)] "Event emitted: GENERATION_AFTER_COMMANDS", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180232.458:INFO:CONSOLE(4003)] "Skipping extension interceptors for dry run", source: http://127.0.0.1:8880/script.js (4003)
+[22828:23672:0327/180232.458:INFO:CONSOLE(4038)] "Core/all messages: 48/48", source: http://127.0.0.1:8880/script.js (4038)
+[22828:23672:0327/180232.458:INFO:CONSOLE(332)] "
+    setFloatingPrompt entered
+    ------
+    lastMessageNumber = 24
+    metadata_keys.interval = 1
+    metadata_keys.position = 1
+    metadata_keys.depth = 4
+    metadata_keys.role = 0
+    ------
+    ", source: http://127.0.0.1:8880/scripts/authors-note.js (332)
+[22828:23672:0327/180232.459:INFO:CONSOLE(3872)] "[WI] --- START WI SCAN (on 48 messages) (DRY RUN) ---", source: http://127.0.0.1:8880/scripts/world-info.js (3872)
+[22828:23672:0327/180232.459:INFO:CONSOLE(3902)] "[WI] Context size: 3096; WI budget: 774 (max% = 25%, cap = 0)", source: http://127.0.0.1:8880/scripts/world-info.js (3902)
+[22828:23672:0327/180232.459:INFO:CONSOLE(3793)] "[WI] Found 0 world lore entries. Sorted by strategy character_first,1", source: http://127.0.0.1:8880/scripts/world-info.js (3793)
+[22828:23672:0327/180232.459:INFO:CONSOLE(4092)] "skipWIAN not active, adding WIAN", source: http://127.0.0.1:8880/script.js (4092)
+[22828:23672:0327/180232.460:INFO:CONSOLE(4344)] "calling runGenerate", source: http://127.0.0.1:8880/script.js (4344)
+[22828:23672:0327/180232.461:INFO:CONSOLE(4362)] "generating prompt", source: http://127.0.0.1:8880/script.js (4362)
+[22828:23672:0327/180232.462:INFO:CONSOLE(4519)] "---calling setPromptString 0", source: http://127.0.0.1:8880/script.js (4519)
+[22828:23672:0327/180232.462:INFO:CONSOLE(135)] "Event emitted: generate_after_combine_prompts", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180232.462:INFO:CONSOLE(2552)] "Message role not set, defaulting to 'system' for identifier 'personaDescription'", source: http://127.0.0.1:8880/scripts/openai.js (2552)
+[22828:23672:0327/180232.480:INFO:CONSOLE(135)] "Event emitted: chat_completion_prompt_ready", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180232.480:INFO:CONSOLE(135)] "Event emitted: generate_after_data", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180233.522:INFO:CONSOLE(135)] "Event emitted: settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:21980:0327/180236.321:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+[22828:21980:0327/180250.365:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+[22828:21980:0327/180350.567:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+[22828:23672:0327/180436.690:INFO:CONSOLE(3730)] "Generate entered", source: http://127.0.0.1:8880/script.js (3730)
+[22828:23672:0327/180436.690:INFO:CONSOLE(135)] "Event emitted: generation_started", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180436.690:INFO:CONSOLE(135)] "Event emitted: GENERATION_AFTER_COMMANDS", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180436.706:INFO:CONSOLE(135)] "Event emitted: message_sent", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180436.721:INFO:CONSOLE(135)] "Event emitted: user_message_rendered", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180436.721:INFO:CONSOLE(20)] "[QR2] calling [object Object]", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (20)
+[22828:23672:0327/180436.923:INFO:CONSOLE(180)] "Chat Completions: saving token cache", source: http://127.0.0.1:8880/scripts/tokenizers.js (180)
+[22828:23672:0327/180436.924:INFO:CONSOLE(3994)] "Running extension interceptors", source: http://127.0.0.1:8880/script.js (3994)
+[22828:23672:0327/180436.924:INFO:CONSOLE(4038)] "Core/all messages: 49/49", source: http://127.0.0.1:8880/script.js (4038)
+[22828:23672:0327/180436.924:INFO:CONSOLE(332)] "
+    setFloatingPrompt entered
+    ------
+    lastMessageNumber = 25
+    metadata_keys.interval = 1
+    metadata_keys.position = 1
+    metadata_keys.depth = 4
+    metadata_keys.role = 0
+    ------
+    ", source: http://127.0.0.1:8880/scripts/authors-note.js (332)
+[22828:23672:0327/180436.924:INFO:CONSOLE(3872)] "[WI] --- START WI SCAN (on 49 messages) ---", source: http://127.0.0.1:8880/scripts/world-info.js (3872)
+[22828:23672:0327/180436.924:INFO:CONSOLE(3902)] "[WI] Context size: 3096; WI budget: 774 (max% = 25%, cap = 0)", source: http://127.0.0.1:8880/scripts/world-info.js (3902)
+[22828:23672:0327/180436.924:INFO:CONSOLE(3793)] "[WI] Found 0 world lore entries. Sorted by strategy character_first,1", source: http://127.0.0.1:8880/scripts/world-info.js (3793)
+[22828:23672:0327/180436.925:INFO:CONSOLE(4092)] "skipWIAN not active, adding WIAN", source: http://127.0.0.1:8880/script.js (4092)
+[22828:23672:0327/180436.928:INFO:CONSOLE(4344)] "calling runGenerate", source: http://127.0.0.1:8880/script.js (4344)
+[22828:23672:0327/180436.929:INFO:CONSOLE(4362)] "generating prompt", source: http://127.0.0.1:8880/script.js (4362)
+[22828:23672:0327/180436.929:INFO:CONSOLE(4519)] "---calling setPromptString 0", source: http://127.0.0.1:8880/script.js (4519)
+[22828:23672:0327/180436.929:INFO:CONSOLE(135)] "Event emitted: generate_after_combine_prompts", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180436.930:INFO:CONSOLE(2552)] "Message role not set, defaulting to 'system' for identifier 'personaDescription'", source: http://127.0.0.1:8880/scripts/openai.js (2552)
+[22828:23672:0327/180436.965:INFO:CONSOLE(135)] "Event emitted: chat_completion_prompt_ready", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180436.966:INFO:CONSOLE(135)] "Event emitted: generate_after_data", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180436.967:INFO:CONSOLE(4737)] "rungenerate calling API", source: http://127.0.0.1:8880/script.js (4737)
+[22828:23672:0327/180436.968:INFO:CONSOLE(4785)] "pushed prompt bits to itemizedPrompts array. Length is now: 6", source: http://127.0.0.1:8880/script.js (4785)
+[22828:23672:0327/180436.968:INFO:CONSOLE(135)] "Event emitted: chat_completion_settings_ready", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180437.003:INFO:CONSOLE(467)] "User Input --  ", source: http://127.0.0.1:8880/scripts/RossAscends-mods.js (467)
+[22828:23672:0327/180437.968:INFO:CONSOLE(135)] "Event emitted: settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:21980:0327/180450.821:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+[22828:23672:0327/180455.120:INFO:CONSOLE(6157)] "entering chat update routine for non-swipe post", source: http://127.0.0.1:8880/script.js (6157)
+[22828:23672:0327/180455.121:INFO:CONSOLE(135)] "Event emitted: message_received", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180455.177:INFO:CONSOLE(135)] "Event emitted: character_message_rendered", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180455.177:INFO:CONSOLE(20)] "[QR2] calling [object Object]", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (20)
+[22828:23672:0327/180455.180:INFO:CONSOLE(4953)] "/api/chats/save called by /Generate", source: http://127.0.0.1:8880/script.js (4953)
+[22828:23672:0327/180455.358:INFO:CONSOLE(180)] "Chat Completions: saving token cache", source: http://127.0.0.1:8880/scripts/tokenizers.js (180)
+[22828:23672:0327/180455.358:INFO:CONSOLE(135)] "Event emitted: generation_ended", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180455.375:INFO:CONSOLE(5097)] "Auto-continue is disabled by user.", source: http://127.0.0.1:8880/script.js (5097)
+[22828:23672:0327/180456.223:INFO:CONSOLE(3730)] "Generate entered", source: http://127.0.0.1:8880/script.js (3730)
+[22828:23672:0327/180456.223:INFO:CONSOLE(135)] "Event emitted: generation_started", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180456.223:INFO:CONSOLE(135)] "Event emitted: GENERATION_AFTER_COMMANDS", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180456.224:INFO:CONSOLE(4003)] "Skipping extension interceptors for dry run", source: http://127.0.0.1:8880/script.js (4003)
+[22828:23672:0327/180456.224:INFO:CONSOLE(4038)] "Core/all messages: 50/50", source: http://127.0.0.1:8880/script.js (4038)
+[22828:23672:0327/180456.224:INFO:CONSOLE(332)] "
+    setFloatingPrompt entered
+    ------
+    lastMessageNumber = 25
+    metadata_keys.interval = 1
+    metadata_keys.position = 1
+    metadata_keys.depth = 4
+    metadata_keys.role = 0
+    ------
+    ", source: http://127.0.0.1:8880/scripts/authors-note.js (332)
+[22828:23672:0327/180456.224:INFO:CONSOLE(3872)] "[WI] --- START WI SCAN (on 50 messages) (DRY RUN) ---", source: http://127.0.0.1:8880/scripts/world-info.js (3872)
+[22828:23672:0327/180456.224:INFO:CONSOLE(3902)] "[WI] Context size: 3096; WI budget: 774 (max% = 25%, cap = 0)", source: http://127.0.0.1:8880/scripts/world-info.js (3902)
+[22828:23672:0327/180456.224:INFO:CONSOLE(3793)] "[WI] Found 0 world lore entries. Sorted by strategy character_first,1", source: http://127.0.0.1:8880/scripts/world-info.js (3793)
+[22828:23672:0327/180456.224:INFO:CONSOLE(4092)] "skipWIAN not active, adding WIAN", source: http://127.0.0.1:8880/script.js (4092)
+[22828:23672:0327/180456.227:INFO:CONSOLE(4344)] "calling runGenerate", source: http://127.0.0.1:8880/script.js (4344)
+[22828:23672:0327/180456.227:INFO:CONSOLE(4362)] "generating prompt", source: http://127.0.0.1:8880/script.js (4362)
+[22828:23672:0327/180456.228:INFO:CONSOLE(4519)] "---calling setPromptString 0", source: http://127.0.0.1:8880/script.js (4519)
+[22828:23672:0327/180456.228:INFO:CONSOLE(135)] "Event emitted: generate_after_combine_prompts", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180456.229:INFO:CONSOLE(2552)] "Message role not set, defaulting to 'system' for identifier 'personaDescription'", source: http://127.0.0.1:8880/scripts/openai.js (2552)
+[22828:23672:0327/180456.246:INFO:CONSOLE(135)] "Event emitted: chat_completion_prompt_ready", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180456.247:INFO:CONSOLE(135)] "Event emitted: generate_after_data", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[22828:23672:0327/180457.367:INFO:CONSOLE(135)] "Event emitted: settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[17132:6080:0327/181305.935:WARNING:invalidation_listener_impl.cc(100)] ProfileInvalidationProvider-245350905893 Created for project_number: 245350905893
+[17132:6080:0327/181305.935:WARNING:fm_registration_token_uploader.cc(156)] Starting FmRegistrationTokenUploader for kUser scope, 245350905893 project
+[17132:6080:0327/181305.935:WARNING:invalidation_listener_impl.cc(146)] ProfileInvalidationProvider-245350905893 Starting
+[17132:6080:0327/181305.935:WARNING:invalidation_listener_impl.cc(100)] ProfileInvalidationProvider-585406161706 Created for project_number: 585406161706
+[17132:6080:0327/181305.935:WARNING:fm_registration_token_uploader.cc(156)] Starting FmRegistrationTokenUploader for kUser scope, 585406161706 project
+[17132:6080:0327/181305.935:WARNING:invalidation_listener_impl.cc(146)] ProfileInvalidationProvider-585406161706 Starting
+[9756:23996:0327/181306.237:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[9756:23996:0327/181306.242:ERROR:direct_composition_support.cc(1070)] QueryInterface to IDCompositionDevice4 failed: 不支持此接口 (0x80004002)
+[17132:6080:0327/181307.333:INFO:CONSOLE(528)] "Character context menu initialized [object Object]", source: http://127.0.0.1:8880/script.js (528)
+[17132:6080:0327/181307.333:INFO:CONSOLE(536)] "initializing Prompt Itemization Array on Startup", source: http://127.0.0.1:8880/script.js (536)
+[17132:6080:0327/181307.398:INFO:CONSOLE(58)] "User Agent [object Object]", source: http://127.0.0.1:8880/scripts/browser-fixes.js (58)
+[17132:6080:0327/181307.477:INFO:CONSOLE(125)] "Loading locale data from ./locales/zh-cn.json", source: http://127.0.0.1:8880/scripts/i18n.js (125)
+[17132:6080:0327/181307.511:INFO:CONSOLE(100)] "Registering preset manager for API: kobold", source: http://127.0.0.1:8880/scripts/preset-manager.js (100)
+[17132:6080:0327/181307.511:INFO:CONSOLE(100)] "Registering preset manager for API: novel", source: http://127.0.0.1:8880/scripts/preset-manager.js (100)
+[17132:6080:0327/181307.511:INFO:CONSOLE(100)] "Registering preset manager for API: openai", source: http://127.0.0.1:8880/scripts/preset-manager.js (100)
+[17132:6080:0327/181307.511:INFO:CONSOLE(100)] "Registering preset manager for API: textgenerationwebui", source: http://127.0.0.1:8880/scripts/preset-manager.js (100)
+[17132:6080:0327/181307.511:INFO:CONSOLE(100)] "Registering preset manager for API: context", source: http://127.0.0.1:8880/scripts/preset-manager.js (100)
+[17132:6080:0327/181307.511:INFO:CONSOLE(100)] "Registering preset manager for API: instruct", source: http://127.0.0.1:8880/scripts/preset-manager.js (100)
+[17132:6080:0327/181307.511:INFO:CONSOLE(100)] "Registering preset manager for API: sysprompt", source: http://127.0.0.1:8880/scripts/preset-manager.js (100)
+[17132:6080:0327/181307.672:INFO:CONSOLE(135)] "Event emitted: settings_loaded_before", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[17132:6080:0327/181307.676:INFO:CONSOLE(343)] "Preset samplers order: 6,0,1,2,3,4,5", source: http://127.0.0.1:8880/scripts/kai-settings.js (343)
+[17132:6080:0327/181307.678:INFO:CONSOLE(620)] "Preset samplers order: 1,5,0,2,3,4", source: http://127.0.0.1:8880/scripts/nai-settings.js (620)
+[17132:6080:0327/181307.687:INFO:CONSOLE(576)] "Preset samplers order: 6,0,1,3,4,2,5", source: http://127.0.0.1:8880/scripts/textgen-settings.js (576)
+[17132:6080:0327/181307.687:INFO:CONSOLE(597)] "Preset samplers order:  repetition_penalty,presence_penalty,frequency_penalty,dry,temperature,dynamic_temperature,quadratic_sampling,top_k,top_p,typical_p,epsilon_cutoff,eta_cutoff,tfs,top_a,min_p,mirostat,xtc,encoder_repetition_penalty,no_repeat_ngram", source: http://127.0.0.1:8880/scripts/textgen-settings.js (597)
+[17132:6080:0327/181307.688:INFO:CONSOLE(587)] "Preset samplers order:  dry,top_k,tfs_z,typical_p,top_p,min_p,xtc,temperature", source: http://127.0.0.1:8880/scripts/textgen-settings.js (587)
+[17132:6080:0327/181307.689:INFO:CONSOLE(611)] "Preset samplers order:  dry,penalties,no_repeat_ngram,temperature,top_nsigma,top_p_top_k,top_a,min_p,tfs,eta_cutoff,epsilon_cutoff,typical_p,quadratic,xtc", source: http://127.0.0.1:8880/scripts/textgen-settings.js (611)
+[17132:6080:0327/181307.746:INFO:CONSOLE(135)] "Event emitted: chatcompletion_model_changed", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[17132:6080:0327/181307.759:INFO:CONSOLE(135)] "Event emitted: chatcompletion_source_changed", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[17132:6080:0327/181307.779:INFO:CONSOLE(1016)] "poweruser.chat_display 0", source: http://127.0.0.1:8880/scripts/power-user.js (1016)
+[17132:6080:0327/181307.779:INFO:CONSOLE(1021)] "applying default chat", source: http://127.0.0.1:8880/scripts/power-user.js (1021)
+[17132:6080:0327/181307.787:INFO:CONSOLE(3101)] "aborting MUI reset 0", source: http://127.0.0.1:8880/scripts/power-user.js (3101)
+[17132:6080:0327/181307.794:INFO:CONSOLE(3101)] "aborting MUI reset 0", source: http://127.0.0.1:8880/scripts/power-user.js (3101)
+[17132:6080:0327/181307.827:INFO:CONSOLE(1773)] "Setting context_story_string to {{#if system}}{{system}}
+{{/if}}{{#if wiBefore}}{{wiBefore}}
+{{/if}}{{#if description}}{{description}}
+{{/if}}{{#if personality}}{{char}}'s personality: {{personality}}
+{{/if}}{{#if scenario}}Scenario: {{scenario}}
+{{/if}}{{#if wiAfter}}{{wiAfter}}
+{{/if}}{{#if persona}}{{persona}}
+{{/if}}", source: http://127.0.0.1:8880/scripts/power-user.js (1773)
+[17132:6080:0327/181307.827:INFO:CONSOLE(1773)] "Setting context_example_separator to ***", source: http://127.0.0.1:8880/scripts/power-user.js (1773)
+[17132:6080:0327/181307.827:INFO:CONSOLE(1773)] "Setting context_chat_start to ***", source: http://127.0.0.1:8880/scripts/power-user.js (1773)
+[17132:6080:0327/181307.827:INFO:CONSOLE(1773)] "Setting context_use_stop_strings to true", source: http://127.0.0.1:8880/scripts/power-user.js (1773)
+[17132:6080:0327/181307.828:INFO:CONSOLE(1773)] "Setting context_allow_jailbreak to false", source: http://127.0.0.1:8880/scripts/power-user.js (1773)
+[17132:6080:0327/181307.828:INFO:CONSOLE(1773)] "Setting context_names_as_stop_strings to true", source: http://127.0.0.1:8880/scripts/power-user.js (1773)
+[17132:6080:0327/181307.833:INFO:CONSOLE(1667)] "skipping movingUI state load", source: http://127.0.0.1:8880/scripts/power-user.js (1667)
+[17132:6080:0327/181307.846:INFO:CONSOLE(135)] "Event emitted: settings_loaded_after", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[17132:6080:0327/181307.847:INFO:CONSOLE(7092)] "value? openai", source: http://127.0.0.1:8880/script.js (7092)
+[17132:6080:0327/181307.847:INFO:CONSOLE(7094)] "hiding settings?", source: http://127.0.0.1:8880/script.js (7094)
+[17132:6080:0327/181307.848:INFO:CONSOLE(221)] "returning full samplers array", source: http://127.0.0.1:8880/scripts/samplerSelect.js (221)
+[17132:6080:0327/181307.857:INFO:CONSOLE(135)] "Event emitted: worldinfo_settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[17132:6080:0327/181307.863:INFO:CONSOLE(135)] "Event emitted: extensions_first_load", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[17132:6080:0327/181307.917:INFO:CONSOLE(392)] "Activating extension translate", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[17132:6080:0327/181307.926:INFO:CONSOLE(392)] "Activating extension connection-manager", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[17132:6080:0327/181307.946:INFO:CONSOLE(392)] "Activating extension regex", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[17132:6080:0327/181307.966:INFO:CONSOLE(392)] "Activating extension attachments", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[17132:6080:0327/181307.998:INFO:CONSOLE(392)] "Activating extension caption", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[17132:6080:0327/181308.030:INFO:CONSOLE(392)] "Activating extension expressions", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[17132:6080:0327/181308.085:INFO:CONSOLE(1667)] "skipping movingUI state load", source: http://127.0.0.1:8880/scripts/power-user.js (1667)
+[17132:6080:0327/181308.086:INFO:CONSOLE(392)] "Activating extension gallery", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[17132:6080:0327/181308.107:INFO:CONSOLE(483)] "dragElement called for expression-holder", source: http://127.0.0.1:8880/scripts/RossAscends-mods.js (483)
+[17132:6080:0327/181308.110:INFO:CONSOLE(3040)] "Window resize: 929x812 -> 929x812", source: http://127.0.0.1:8880/scripts/power-user.js (3040)
+[17132:6080:0327/181308.110:INFO:CONSOLE(3041)] "Zoom: 1.00, X:929, Y:812, original: 929x812 ", source: http://127.0.0.1:8880/scripts/power-user.js (3041)
+[17132:6080:0327/181308.112:INFO:CONSOLE(392)] "Activating extension memory", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[17132:6080:0327/181308.121:INFO:CONSOLE(392)] "Activating extension stable-diffusion", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[17132:6080:0327/181308.163:INFO:CONSOLE(943)] "Summary has no content", source: http://127.0.0.1:8880/scripts/extensions/memory/index.js (943)
+[17132:6080:0327/181308.168:INFO:CONSOLE(943)] "Summary has no content", source: http://127.0.0.1:8880/scripts/extensions/memory/index.js (943)
+[17132:6080:0327/181308.172:INFO:CONSOLE(943)] "Summary has no content", source: http://127.0.0.1:8880/scripts/extensions/memory/index.js (943)
+[17132:6080:0327/181308.203:INFO:CONSOLE(943)] "Summary has no content", source: http://127.0.0.1:8880/scripts/extensions/memory/index.js (943)
+[17132:6080:0327/181308.225:INFO:CONSOLE(392)] "Activating extension tts", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[17132:6080:0327/181308.376:INFO:CONSOLE(392)] "Activating extension quick-reply", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[17132:6080:0327/181308.389:INFO:CONSOLE(116)] "Using default TTS Provider settings", source: http://127.0.0.1:8880/scripts/extensions/tts/system.js (116)
+[17132:6080:0327/181308.389:INFO:CONSOLE(154)] "SystemTTS: Settings loaded", source: http://127.0.0.1:8880/scripts/extensions/tts/system.js (154)
+[17132:6080:0327/181308.426:INFO:CONSOLE(392)] "Activating extension assets", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[17132:6080:0327/181308.466:INFO:CONSOLE(20)] "[QR2] sets:  [object Object]", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (20)
+[17132:6080:0327/181308.466:INFO:CONSOLE(20)] "[QR2] settings:  [object Object]", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (20)
+[17132:6080:0327/181308.468:INFO:CONSOLE(392)] "Activating extension token-counter", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[17132:6080:0327/181308.512:INFO:CONSOLE(392)] "Activating extension vectors", source: http://127.0.0.1:8880/scripts/extensions.js (392)
+[17132:6080:0327/181308.523:INFO:CONSOLE(135)] "Event emitted: extension_settings_loaded", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[17132:6080:0327/181308.523:INFO:CONSOLE(221)] "returning full samplers array", source: http://127.0.0.1:8880/scripts/samplerSelect.js (221)
+[17132:6080:0327/181308.523:INFO:CONSOLE(135)] "Event emitted: settings_loaded", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[17132:6080:0327/181308.619:INFO:CONSOLE(135)] "Event emitted: character_page_loaded", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[17132:6080:0327/181308.630:INFO:CONSOLE(170)] "Chat Completions: loading token cache", source: http://127.0.0.1:8880/scripts/tokenizers.js (170)
+[17132:6080:0327/181308.901:INFO:CONSOLE(135)] "Event emitted: settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[17132:6080:0327/181309.372:INFO:CONSOLE(135)] "Event emitted: settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[17132:6080:0327/181309.640:INFO:CONSOLE(135)] "Event emitted: app_ready", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[17132:6080:0327/181309.640:INFO:CONSOLE(19)] "[QR2] executing startup", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (19)
+[17132:6080:0327/181309.640:INFO:CONSOLE(19)] "[QR2] /executing startup", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (19)
+[17132:6080:0327/181309.640:INFO:CONSOLE(19)] "[QR2] executing queue (0 items)", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (19)
+[17132:6080:0327/181309.640:INFO:CONSOLE(19)] "[QR2] /executing queue", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (19)
+[17132:6080:0327/181309.640:INFO:CONSOLE(19)] "[QR2] READY", source: http://127.0.0.1:8880/scripts/extensions/quick-reply/index.js (19)
+[17132:6080:0327/181310.685:INFO:CONSOLE(135)] "Event emitted: settings_updated", source: http://127.0.0.1:8880/lib/eventemitter.js (135)
+[17132:10892:0327/181311.632:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+[17132:6080:0327/181314.500:WARNING:invalidation_listener_impl.cc(259)] ProfileInvalidationProvider-245350905893 Registration token: eHUccw2X1h0:APA91bH31iaW96ERSvcXxXVJabGLwhNGeo6K2av_Jra28gelLIBqkI_X7vyKZdRyqNNiV1SRLPLcDL3nX33kaYXO4Ca0V0O24O6jbfEklGOPUcZz9ZSXb1Y
+[17132:6080:0327/181314.500:ERROR:fm_registration_token_uploader.cc(187)] Client is missing for kUser scope
+[17132:6080:0327/181314.631:WARNING:invalidation_listener_impl.cc(259)] ProfileInvalidationProvider-585406161706 Registration token: cgc3okJMpms:APA91bEGyDL2v_7D9O42mTs99AmxaScVLhBZa7KeJInSloOeheRuzLoP_8ONOf4BysCOgHXDnA6Z6TVEpe5rIyN_oOsZ_L4WXgJd0JjY5ikuDcjcoZcNgm0
+[17132:6080:0327/181314.631:ERROR:fm_registration_token_uploader.cc(187)] Client is missing for kUser scope
+[7560:7032:0327/181405.499:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17132:10892:0327/181411.736:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+[17132:10892:0327/181425.061:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+[7560:7032:0327/181436.987:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -100
+[20276:17892:0327/181506.267:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[18512:9876:0327/181606.078:ERROR:gpu_blocklist.cc(71)] Unable to get gpu adapter
+[17132:6080:0327/181606.078:ERROR:service_client.cc(36)] Unexpected on_device_model service disconnect: The device's GPU is not supported.
+[7560:7032:0327/181625.347:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17132:10892:0327/181644.854:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+[17132:10892:0327/181902.376:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+[17132:21576:0327/182234.523:WARNING:net_errors_win.cc(119)] Unknown error 64 mapped to net::ERR_FAILED
+[17132:21576:0327/182234.523:WARNING:net_errors_win.cc(119)] Unknown error 64 mapped to net::ERR_FAILED
+[17132:21576:0327/182234.523:WARNING:net_errors_win.cc(119)] Unknown error 64 mapped to net::ERR_FAILED
+[15692:21468:0327/182302.186:WARNING:chrome_browser_main_win.cc(1607)] Edge is running elevated: 4
+[15692:21468:0327/182302.217:WARNING:activity_log_policy.cc(68)] Scheduling init
+[15692:21468:0327/182302.218:WARNING:activity_log_policy.cc(68)] Scheduling init
+[15692:21468:0327/182302.374:ERROR:edge_auth_errors.cc(527)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: 0, Error string: 
+
+[14136:11036:0327/182302.605:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[14136:11036:0327/182302.607:ERROR:direct_composition_support.cc(1075)] QueryInterface to IDCompositionDevice4 failed: 不支持此接口 (0x80004002)
+[25968:14216:0327/182303.197:ERROR:ssl_client_socket_impl.cc(890)] handshake failed; returned -1, SSL error code 1, net_error -101
+[25968:14216:0327/182303.317:ERROR:ssl_client_socket_impl.cc(890)] handshake failed; returned -1, SSL error code 1, net_error -101
+[25968:14216:0327/182303.397:ERROR:ssl_client_socket_impl.cc(890)] handshake failed; returned -1, SSL error code 1, net_error -101
+[25968:14216:0327/182303.467:ERROR:ssl_client_socket_impl.cc(890)] handshake failed; returned -1, SSL error code 1, net_error -101
+[11572:5452:0327/182304.886:INFO:extractor_impl.cc(983)] ExtractorImpl::SetIsPendingEEConfig : 1
+[15692:21468:0327/182305.665:WARNING:underside_helper.cc(1536)] If test does not need FrontLoad, this may be expected. SetFrontLoadDecision: 11
+[15692:21468:0327/182322.057:WARNING:pref_notifier_impl.cc(41)] Pref observer for video_enhancement.mode found at shutdown.
+[15692:21468:0327/182322.149:WARNING:pref_notifier_impl.cc(41)] Pref observer for edge_screenshot.shortcut.main found at shutdown.
+[15692:21468:0327/182322.149:WARNING:pref_notifier_impl.cc(41)] Pref observer for browser.touch_mode found at shutdown.

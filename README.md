@@ -2,6 +2,8 @@
 
 ReverseSillyTavernToAPI是一个基于 Selenium 的 SillyTavern API 代理服务，通过Selenium自动化操作SillyTavern网页，实现了SillyTavern的API接口。
 
+相较于原版将chrome换成了edge，个人用在nonebot中...
+
 ## ⚠️ 免责声明
 
 本项目仅用于学习和研究目的：
@@ -19,28 +21,24 @@ ReverseSillyTavernToAPI是一个基于 Selenium 的 SillyTavern API 代理服务
 ## 系统要求
 
 - Python 3.7+
-- Google Chrome 浏览器
-- ChromeDriver（与 Chrome 版本匹配）
+- edge 浏览器
+- edgeDriver（与 edge 版本匹配）
 
 ## 安装
 
-1. 克隆仓库：
-```bash
-git clone https://github.com/the-lazy-me/ReverseSillyTavernToAPI.git
-```
+1. 克隆仓库
 
-2. 设置chrome浏览器
-   - 点击下载chrome：https://storage.googleapis.com/chrome-for-testing-public/132.0.6834.159/win64/chrome-win64.zip
-   - 点击下载chrome driver：https://storage.googleapis.com/chrome-for-testing-public/132.0.6834.159/win64/chromedriver-win64.zip
-   
-3. 配置`config.py`文件
+2. 设置EDGE浏览器
+   - 自行搜索相同版本下载，如果电脑里由edge可以直接用，下载相同版本的drive即可
+   drive：https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+3. 配置文件
 
    - 关键是设置，也可以使用相对路径，默认如下
+   option.yml 设置edge路径和drive路径，地址端口号（默认http://127.0.0.1:8000）
+   /src/chat/chat_api.py需要设置edge路径和地址端口号（默认http://127.0.0.1:8000）
 
-     ```python
-     CHROME_PATH = r'browser/chrome.exe'
-     CHROME_DRIVER_PATH = r'browser/driver/chromedriver.exe'
-     ```
+   
+
 
 4. 安装依赖，程序根目录
 
